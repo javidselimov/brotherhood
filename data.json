@@ -1,0 +1,54 @@
+[
+
+    {
+      "id":"0001",
+      "name":"Semender",
+      "surname":"Agayev",
+      "position":"actor",
+      "experience":"5"
+    },
+    {
+      "id":"0002",
+      "name":"Nigar",
+      "surname":"Jamal",
+      "position":"musician",
+      "experience":"5"
+    },
+    {
+      "id":"0003",
+      "name":"Shixkerim",
+      "surname":"Hesenrza",
+      "position":"Programmer",
+      "experience":"10"
+    },
+    {
+      "id":"0004",
+      "name":"Elon",
+      "surname":"Musk",
+      "position":"big actor",
+      "experience":"30"
+    },
+    {
+      "id":"0005",
+      "name":"Obivan",
+      "surname":"Kinobi",
+      "position":"hero",
+      "experience":"1"
+    },
+    {
+      "id":"0006",
+      "name":"Nicole",
+      "surname":"Kidman",
+      "position":"actor",
+      "experience":"1"
+    },
+    {
+      "id":"0006",
+      "name":"Tony",
+      "surname":"Buzan",
+      "position":"author",
+      "experience":"40"
+    }
+
+
+]
